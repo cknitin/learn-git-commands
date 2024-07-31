@@ -1,6 +1,6 @@
 # Git Commands
 
-> Tocreate directory
+> To create directory
 ```
 mkdir myRep
 ```
